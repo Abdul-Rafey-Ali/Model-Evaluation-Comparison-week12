@@ -1,0 +1,82 @@
+id,age,education,gender,income,city,credit_score,loan_amount,loan_status
+1,58,High School,Female,60718,Lahore,814,330724,Rejected
+2,48,High School,Male,52602,Islamabad,692,420685,Approved
+3,34,Bachelors,Female,94658,Karachi,615,331160,Rejected
+4,27,PhD,Male,98112,Karachi,375,51233,Rejected
+5,40,PhD,Female,78067,Islamabad,569,397007,Approved
+6,58,High School,Male,47516,Karachi,524,202780,Approved
+7,38,PhD,Female,107969,Lahore,829,456448,Approved
+8,42,Masters,Female,21089,Lahore,412,229522,Approved
+9,30,Masters,Male,57346,Islamabad,550,484653,Rejected
+10,30,PhD,Male,94663,Karachi,532,111311,Rejected
+11,43,PhD,Female,30487,Lahore,382,39409,Rejected
+12,55,High School,Male,20155,Lahore,424,251231,Rejected
+13,59,Masters,Male,87494,Peshawar,474,417540,Approved
+14,43,Masters,Male,96229,Peshawar,368,406954,Approved
+15,22,Bachelors,Male,58547,Lahore,346,291198,Rejected
+16,41,High School,Female,48795,Islamabad,555,34709,Approved
+17,21,Bachelors,Female,75296,Quetta,329,114321,Rejected
+18,43,Masters,Male,41447,Quetta,580,483859,Rejected
+19,49,High School,Male,56598,Lahore,536,5363,Rejected
+20,57,PhD,Male,61814,Lahore,547,277502,Rejected
+21,21,High School,Male,110751,Lahore,667,499829,Approved
+22,40,PhD,Female,95330,Islamabad,794,401456,Rejected
+23,52,PhD,Female,118745,Peshawar,324,470417,Rejected
+24,32,Masters,Male,50000,Lahore,450,50689,Approved
+25,41,PhD,Male,83278,Lahore,793,269080,Rejected
+26,44,Bachelors,Male,75077,Karachi,613,379416,Approved
+27,46,Masters,Female,91906,Islamabad,674,96074,Rejected
+28,47,PhD,Male,29528,Lahore,324,180037,Approved
+29,35,Bachelors,Female,113812,Karachi,633,213606,Approved
+30,34,PhD,Male,70100,Quetta,654,5882,Approved
+31,22,Masters,Female,28179,Lahore,415,418440,Rejected
+32,56,Bachelors,Male,68781,Lahore,347,372371,Approved
+33,26,Masters,Female,75267,Karachi,398,259822,Approved
+34,40,Masters,Male,102379,Islamabad,758,130865,Approved
+35,28,Bachelors,Male,43952,Lahore,822,128745,Rejected
+36,58,Bachelors,Male,73798,Quetta,704,429041,Approved
+37,37,Bachelors,Female,118696,Lahore,513,468956,Approved
+38,23,High School,Male,70939,Quetta,802,33885,Rejected
+39,44,Bachelors,Female,49516,Peshawar,747,176128,Approved
+40,33,Bachelors,Female,76526,Peshawar,557,401419,Rejected
+41,28,Bachelors,Male,30449,Quetta,420,196313,Approved
+42,45,Bachelors,Male,70290,Islamabad,353,400460,Rejected
+43,21,PhD,Male,106661,Lahore,630,365466,Approved
+44,31,High School,Male,60000,Lahore,350,335763,Approved
+45,36,Bachelors,Female,75296,Karachi,329,114321,Rejected
+46,26,Bachelors,Female,87990,Quetta,782,275665,Approved
+47,27,PhD,Female,78810,Lahore,486,186089,Rejected
+48,54,PhD,Male,103297,Lahore,561,300685,Approved
+49,33,PhD,Male,35223,Islamabad,663,34063,Approved
+50,35,Masters,Male,75268,Karachi,500,75268,Approved
+51,55,Bachelors,Male,22597,Peshawar,730,261306,Rejected
+52,59,High School,Male,85677,Peshawar,538,131218,Approved
+53,23,High School,Male,22659,Karachi,603,385350,Approved
+54,21,PhD,Female,106516,Lahore,597,463168,Approved
+55,25,Masters,Female,94567,Islamabad,375,229126,Approved
+56,23,Masters,Female,35037,Islamabad,632,175635,Approved
+57,48,Masters,Male,66738,Peshawar,773,175824,Rejected
+58,37,High School,Female,91678,Islamabad,582,231305,Approved
+59,40,High School,Female,105925,Karachi,582,400783,Rejected
+60,53,Bachelors,Female,42010,Lahore,562,414337,Approved
+61,29,High School,Female,28787,Karachi,311,399890,Rejected
+62,55,PhD,Female,28472,Quetta,440,81411,Rejected
+63,33,PhD,Male,43383,Peshawar,316,114876,Approved
+64,50,Bachelors,Male,81709,Islamabad,362,464491,Rejected
+65,34,Bachelors,Female,89785,Quetta,552,203153,Approved
+66,27,Bachelors,Female,54518,Islamabad,764,165212,Rejected
+67,33,Masters,Female,73909,Lahore,675,145399,Rejected
+68,42,Bachelors,Male,38351,Lahore,819,468879,Approved
+69,59,PhD,Male,89624,Lahore,389,28331,Approved
+70,40,Bachelors,Female,73330,Islamabad,474,28004,Approved
+71,35,High School,Male,60000,Quetta,500,243441,Approved
+72,37,High School,Male,104866,Lahore,699,386387,Approved
+73,43,Masters,Female,41778,Quetta,370,408708,Approved
+74,45,High School,Male,44264,Islamabad,479,453013,Approved
+75,44,High School,Male,79675,Quetta,423,194167,Rejected
+76,48,PhD,Female,25075,Islamabad,680,411965,Approved
+77,34,High School,Male,95948,Islamabad,592,330361,Approved
+78,20,PhD,Male,68454,Peshawar,494,94044,Rejected
+79,44,Bachelors,Female,48365,Islamabad,527,276189,Approved
+80,26,Bachelors,Male,92766,Islamabad,730,287260,Approved
+

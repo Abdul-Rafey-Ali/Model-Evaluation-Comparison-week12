@@ -1,0 +1,11 @@
+Dataset rows: 80
+X shape: (80, 8)
+y shape: (80,)
+
+Metrics (weighted where applicable):
+Bernoulli: accuracy=0.6250, precision=0.5852, recall=0.6250, f1=0.5412
+Random Forest: accuracy=0.5833, precision=0.3804, recall=0.5833, f1=0.4605
+Gaussian: accuracy=0.6250, precision=0.6250, recall=1.0000, f1=0.7692
+Decision Tree: accuracy=0.6250, precision=0.5938, recall=0.6250, f1=0.5797
+Multinomial: accuracy=0.5833, precision=0.6276, recall=0.5833, f1=0.5892
+KNeighbors: accuracy=0.4583, precision=0.4696, recall=0.4583, f1=0.4632
